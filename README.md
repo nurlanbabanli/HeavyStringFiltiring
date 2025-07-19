@@ -1,4 +1,4 @@
-﻿# HeaveStringFiltering
+﻿# HeavyStringFiltering
 
 ## 📌 Overview
 
